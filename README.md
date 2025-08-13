@@ -1,9 +1,11 @@
-NVIDIA Corporation (NASDAQ: NVDA)  
+**NVIDIA Corporation (NASDAQ: NVDA)**  
 Date: August 13, 2025  
 Current Share Price (closing price Aug 12, 2025): $183.10  
 Analyst: Rei Mici  
 
-Summary  
+---
+
+**Summary**  
 This analysis concludes that NVIDIA Corporation is trading at a significant premium to its  
 intrinsic value derived from standard valuation methodologies. While its operational  
 performance and market dominance in AI are unparalleled, current market capitalization  
@@ -14,17 +16,21 @@ Center segment and uphold its high-margin software/hardware ecosystem (CUDA). Ke
 include intensified competition from AMD and in-house chip development by major cloud  
 service providers (CSPs), as well as potential geopolitical trade restrictions.  
 
-Equity market data:  
+---
+
+**Equity Market Data**  
 • Current Stock Price (As of Aug 13, 2025): $183.10  
 • Shares Outstanding: ~24.61 Billion  
 • Market Capitalization: ~$4.50 Trillion ($183.10 * 24.61B)  
 
-I. Discounted Cash Flow (DCF) Analysis  
+---
+
+**I. Discounted Cash Flow (DCF) Analysis**  
 The DCF analysis projects NVIDIA's unlevered free cash flow (UFCF) over a five-year explicit  
 forecast period and discounts it back to the present value using the Weighted Average Cost of  
 Capital (WACC).  
 
-A. Key Assumptions:  
+**A. Key Assumptions**  
 
 | Assumption | Justification & Value |  
 |------------|--------------------|  
@@ -38,7 +44,7 @@ A. Key Assumptions:
 | Terminal Growth Rate | 4.0% (reflecting long-term global GDP + inflation + 1% for tech sector premium). |  
 | Terminal EV/EBITDA | 20.0x (reflecting a mature, but still high-growth, market leader). |  
 
-B. Weighted Average Cost of Capital (WACC):  
+**B. Weighted Average Cost of Capital (WACC)**  
 
 | Component | Value | Rationale |  
 |-----------|-------|----------|  
@@ -51,7 +57,7 @@ B. Weighted Average Cost of Capital (WACC):
 | Tax Rate (t) | 18% | Global average assumption. |  
 | Calculated WACC | 9.35% | |  
 
-C. Implied Valuation (DCF):  
+**C. Implied Valuation (DCF)**  
 
 | Valuation Method | Implied Enterprise Value | Implied Equity Value | Implied Share Price |  
 |-----------------|------------------------|-------------------|------------------|  
@@ -64,12 +70,14 @@ C. Implied Valuation (DCF):
 | 9.5% | $109.23 | $118.29 |  
 | 10.0% | $99.20 | $106.94 |  
 
-II. Comparable Company Analysis (CCA)  
+---
+
+**II. Comparable Company Analysis (CCA)**  
 This methodology values NVIDIA by comparing its trading multiples to those of a peer group of  
 publicly traded semiconductor companies. Given NVIDIA's unique position in AI, a premium to  
 the median of this group is warranted.  
 
-A. Peer Group Selection:  
+**A. Peer Group Selection**  
 • Advanced Micro Devices (AMD): Closest competitor in GPUs.  
 • Broadcom Inc. (AVGO): High-margin, diversified semiconductor leader.  
 • Intel Corporation (INTC): Legacy competitor investing heavily in GPUs/AI.  
@@ -77,7 +85,7 @@ A. Peer Group Selection:
 • ASML Holding N.V. (ASML): Critical supplier (EUV lithography), different business  
 model but core to the ecosystem.  
 
-B. Multiples Matrix (NTM - Next Twelve Months):  
+**B. Multiples Matrix (NTM - Next Twelve Months)**  
 
 | Company | EV ($B) | EV/NTM Revenue | EV/NTM EBITDA | NTM P/E |  
 |---------|---------|----------------|---------------|---------|  
@@ -89,7 +97,7 @@ B. Multiples Matrix (NTM - Next Twelve Months):
 | Median | 6.5x | 23.0x | 28.0x |  
 | 75th Percentile | 9.5x | 26.0x | 35.8x |  
 
-C. Implied Valuation (CCA):  
+**C. Implied Valuation (CCA)**  
 We apply the median and 75th percentile multiple range to NVIDIA's NTM projected metrics  
 (NTM Revenue: $185B, NTM EBITDA: $125B).  
 
@@ -101,15 +109,17 @@ We apply the median and 75th percentile multiple range to NVIDIA's NTM projected
 Note: Revenue multiples are less meaningful for NVIDIA due to its superior profitability.  
 EV/EBITDA is the most relevant metric here.  
 
-Conclusion  
+---
+
+**Conclusion**  
 The analysis indicates that NVIDIA's current share price of $183.10 is above the high end of the  
 valuation ranges implied by both the DCF and Comparable Company analyses.  
 
-• DCF Analysis: Suggests a fair value range of $98.59 - $131.60. To justify the current  
+• **DCF Analysis:** Suggests a fair value range of $98.59 - $131.60. To justify the current  
 price, one would need to assume a higher terminal growth rate (>4.5%) and a lower  
 WACC (<9.0%), implying a near-perpetual state of hypergrowth and minimal risk.  
 
-• Comparable Analysis: The most relevant metric (EV/EBITDA) implies a range of  
+• **Comparable Analysis:** The most relevant metric (EV/EBITDA) implies a range of  
 $115.00 - $130.00. NVIDIA currently trades at an NTM EV/EBITDA multiple of ~27.8x  
 ($3.48T / $125B), which is above the 75th percentile of its peer group.  
 
